@@ -1,0 +1,30 @@
+{
+    "RVOTpsax": {
+    "male": {
+      "normalRange": {
+        "lowerValue": 2.1,
+        "higherValue": 3.5
+      }
+    },
+    "female": {
+      "normalRange": {
+        "lowerValue": 2.1,
+        "higherValue": 3.5
+      }
+    }
+  },
+    "PA": {
+    "male": {
+      "normalRange": {
+        "lowerValue": 1.5,
+        "higherValue": 2.5
+      }
+    },
+    "female": {
+      "normalRange": {
+        "lowerValue": 1.5,
+        "higherValue": 2.5
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "LVEDV": {
+    "measure": "ml",
+    "bsa": true,
+    "bsavalues": {
+      "male": {
+        "normalRange": {
+          "lowerValue": 34,
+          "higherValue": 74
+        }
+      },
+      "female": {
+        "normalRange": {
+          "lowerValue": 29,
+          "higherValue": 61
+        }
+      }
+    },
+    "male": {
+      "normalRange": {
+        "lowerValue": 62,
+        "higherValue": 150
+      }
+    },
+    "female": {
+      "normalRange": {
+        "lowerValue": 46,
+        "higherValue": 106
+      }
+    }
+  },
+  "LVESV": {
+    "measure": "ml",
+    "bsa": true,
+    "bsavalues": {
+      "male": {
+        "normalRange": {
+          "lowerValue": 11,
+          "higherValue": 31
+        }
+      },
+      "female": {
+        "normalRange": {
+          "lowerValue": 8,
+          "higherValue": 24
+        }
+      }
+    },
+    "male": {
+      "normalRange": {
+        "lowerValue": 21,
+        "higherValue": 61
+      }
+    },
+    "female": {
+      "normalRange": {
+        "lowerValue": 14,
+        "higherValue": 42
+      }
+    }
+  },
+  "LVEF": {
+    "isCalculated": true,
+    "measure": "%",
+    "male": {
+      "normalRange": {
+        "lowerValue": 52,
+        "higherValue": 72
+      }
+    },
+    "female": {
+      "normalRange": {
+        "lowerValue": 54,
+        "higherValue": 74
+      }
+    }
+  }
+}
